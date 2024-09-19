@@ -1,4 +1,4 @@
-DVHE
+
 
 Official resources of "DVHE: Dual-View Hyper-Relational Knowledge Graph Embedding for Link Prediction and Entity Typing".
 Overview
