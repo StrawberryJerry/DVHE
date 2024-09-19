@@ -7,7 +7,7 @@ from utils.args import ArgumentGroup, print_arguments
 import logging
 from reader.data_reader import read_input
 from reader.data_loader import prepare_EC_info, prepare_adj_info, get_edge_labels
-from model.DHGE import DHGE
+from model.DVHE import DHGE
 import time
 import math
 import random
